@@ -3,6 +3,9 @@
 [![Language](https://img.shields.io/badge/python-3.5%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-GPL-yellow.svg)](https://github.com/aria-tools/ARIA-tools-docs/blob/master/LICENSE)
 
+This is a clone of the ARIA-docs repository, modified for use on Google Colab to facilitate use in coursework. The original repository can be found [here](https://github.com/aria-tools/ARIA-tools-docs).
+
+
 ARIA-tools-docs is an open source package in Python and Jupyter which contains the documentation for the [ARIA-tools repo](https://github.com/aria-tools/ARIA-tools). This software is open source under the terms of the GNU General Public License. Its development was funded under the NASA Sea-level Change Team (NSLCT) program and the Earth Surface and Interior (ESI) program.
 
 THIS IS RESEARCH CODE PROVIDED TO YOU "AS IS" WITH NO WARRANTIES OF CORRECTNESS. USE AT YOUR OWN RISK.
